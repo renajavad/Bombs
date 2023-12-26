@@ -1,0 +1,3 @@
+C:/Project/BuildBombs/CMakeFiles/detonatedBombs.dir
+C:/Project/BuildBombs/CMakeFiles/edit_cache.dir
+C:/Project/BuildBombs/CMakeFiles/rebuild_cache.dir
